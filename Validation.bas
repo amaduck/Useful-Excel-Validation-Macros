@@ -1,4 +1,4 @@
-
+Attribute VB_Name = "Validation"
 Function checkColumnHeadings(sheetToCheck, rowToCheck, firstColumn, headingsArray)
     
     ' Checks the column headings in a specified sheet against a passed array
